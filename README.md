@@ -1,9 +1,7 @@
 # Advanced E-Commerce Customer Segmentation Analysis
 
 ## Overview
-This project showcases a senior-level approach to unsupervised machine learning by applying K-Means Clustering on a massively scaled, 10-dimensional synthetic dataset of 500,000 e-commerce customers. Moving beyond basic RFM (Recency, Frequency, Monetary) analysis, this model integrates complex behavioral web metrics to derive highly nuanced, actionable business personas.
-
-Built from scratch, this repository serves as a portfolio piece highlighting end-to-end data generation, preprocessing, PCA dimensionality reduction, and cohort analysis.
+This project showcases an approach to unsupervised machine learning by applying K-Means Clustering on a massively scaled, 10-dimensional synthetic dataset of 500,000 e-commerce customers. Moving beyond basic RFM (Recency, Frequency, Monetary) analysis, this model integrates complex behavioral web metrics to derive highly nuanced, actionable business personas.
 
 ## Business Problem
 While standard RFM models identify who spends the most, they fail to capture the *cost* of servicing those customers or the *context* of their buying habits. A shopper who buys $1,000 worth of merchandise but returns 60% of it and logs 4 support calls is inherently different from a frictionless VIP. The goal of this analysis is to structurally identify these deep behavioral clusters so the business can intervene strategically.
